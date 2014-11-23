@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Leo\Desktop\TECHNICOLOR-HYPERDRIVE-master\TECHNICOLOR HYPERDRIVE BETA copy\TechnicolorHyperdriveBeta_Windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Leo\Desktop\TECHNICOLOR-HYPERDRIVE-master\TECHNICOLOR HYPERDRIVE BETA copy\TechnicolorHyperdriveBeta_Windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Leo\Desktop\TECHNICOLOR-HYPERDRIVE-master\TECHNICOLOR HYPERDRIVE BETA copy\TechnicolorHyperdriveBeta_Windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Leo\Desktop\TECHNICOLOR-HYPERDRIVE-master\TECHNICOLOR HYPERDRIVE BETA copy\TechnicolorHyperdriveBeta_Windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+desktop: 1366x768 60Hz; virtual: 2806x900 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.

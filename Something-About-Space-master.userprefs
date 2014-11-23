@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyonInvisible.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyAI.cs" Line="10" Column="32" />
+      <File FileName="Assets\Scripts\RandomSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AddToScoreOnTriggerEnter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyonInvisible.cs" Line="15" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

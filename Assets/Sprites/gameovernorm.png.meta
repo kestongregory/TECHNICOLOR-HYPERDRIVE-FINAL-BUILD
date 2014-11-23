@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 3e205290c1dff1341b5a01a749722194
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gameovernorm_0
+    21300002: gameovernorm_1
+    21300004: gameovernorm_2
+    21300006: gameovernorm_3
+    21300008: gameovernorm_4
+    21300010: gameovernorm_5
+    21300012: gameovernorm_6
+    21300014: gameovernorm_7
+    21300016: gameovernorm_8
+    21300018: gameovernorm_9
+    21300020: gameovernorm_10
+    21300022: gameovernorm_11
+    21300024: gameovernorm_12
+    21300026: gameovernorm_13
+    21300028: gameovernorm_14
+    21300030: gameovernorm_15
+    21300032: gameovernorm_16
+    21300034: gameovernorm_17
+    21300036: gameovernorm_18
+    21300038: gameovernorm_19
+    21300040: gameovernorm_20
+    21300042: gameovernorm_21
+    21300044: gameovernorm_22
+    21300046: gameovernorm_23
+    21300048: gameovernorm_24
+    21300050: gameovernorm_25
+    21300052: gameovernorm_26
+    21300054: gameovernorm_27
+    21300056: gameovernorm_28
+    21300058: gameovernorm_
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gameovernorm_0
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3608
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_1
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3608
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3608
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_3
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3608
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2884
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2884
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_6
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2884
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_7
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2884
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_8
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2884
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2160
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2160
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_11
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2160
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_12
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2160
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_13
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2160
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1436
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1436
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_16
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1436
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_17
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1436
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_18
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1436
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 712
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 712
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_21
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 712
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_22
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 712
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_23
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 712
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 620
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 620
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 621
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_27
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 0
+        width: 620
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_28
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 0
+        width: 621
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameovernorm_
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3608
+        width: 623
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

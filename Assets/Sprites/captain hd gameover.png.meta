@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 4e5aff6323aeb3a4b8eb23002c638c76
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: captain hd gameover_0
+    21300002: captain hd gameover_1
+    21300004: captain hd gameover_2
+    21300006: captain hd gameover_3
+    21300008: captain hd gameover_4
+    21300010: captain hd gameover_5
+    21300012: captain hd gameover_6
+    21300014: captain hd gameover_7
+    21300016: captain hd gameover_8
+    21300018: captain hd gameover_9
+    21300020: captain hd gameover_10
+    21300022: captain hd gameover_11
+    21300024: captain hd gameover_12
+    21300026: captain hd gameover_13
+    21300028: captain hd gameover_14
+    21300030: captain hd gameover_15
+    21300032: captain hd gameover_16
+    21300034: captain hd gameover_17
+    21300036: captain hd gameover_18
+    21300038: captain hd gameover_19
+    21300040: captain hd gameover_20
+    21300042: captain hd gameover_21
+    21300044: captain hd gameover_22
+    21300046: captain hd gameover_23
+    21300048: captain hd gameover_24
+    21300050: captain hd gameover_25
+    21300052: captain hd gameover_26
+    21300054: captain hd gameover_27
+    21300056: captain hd gameover_28
+    21300058: captain hd gameover_29
+    21300060: captain hd gameover_30
+    21300062: captain hd gameover_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: captain hd gameover_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1551
+        width: 360
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1551
+        width: 373
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1551
+        width: 394
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_3
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1551
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_4
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1551
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_5
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1551
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_6
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1551
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_7
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1551
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_8
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1551
+        width: 360
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_13
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_14
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_15
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 1053
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_16
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1053
+        width: 360
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_17
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1053
+        width: 370
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_20
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_21
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_22
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_23
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_24
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 555
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_25
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 555
+        width: 360
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_26
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 555
+        width: 370
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 57
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_29
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 57
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_30
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 57
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: captain hd gameover_31
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 57
+        width: 379
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
